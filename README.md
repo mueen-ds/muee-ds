@@ -21,9 +21,9 @@ Currently learning Python, Pandas, NumPy, and scikit-learn to build real-world M
 ---
 
 ### 📫 Connect With Me:
-- LinkedIn: [your-linkedin-profile](#)
+- LinkedIn: [[your-linkedin-profile](https://www.linkedin.com/in/mueen-ud-din-mueen-ud-din-a87727363 )](#)
 - Twitter: [your-twitter-handle](#)
-- Email: your@email.com
+- Email: mueen.data@gmail.com
 
 ---
 
