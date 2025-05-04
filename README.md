@@ -20,13 +20,12 @@ Currently learning Python, Pandas, NumPy, and scikit-learn to build real-world M
 
 ---
 
-### 📫 Connect With Me:
-- LinkedIn: [Mueen-UD-Din](www.linkedin.com/in/
-mueen-ud-din)
-- Twitter: [@MueenDS_](https://x.com/MueenDS_)]
-- Email: mueen.data@gmail.com
+### 🔗 Connect With Me:
+- 🔹 [LinkedIn](https://www.linkedin.com/in/mueen-ud-din)  
+- 🔹 [Twitter (X)](https://twitter.com/MueenDS)  
+- 📧 Email: mueen.data@gmail.com  
 
 ---
 
-> “The best way to learn data science is by building and sharing.”  
-Let's grow together! 🤝
+> *“The best way to learn data science is by building and sharing.”*  
+> *Let’s grow together! 🤝*
