@@ -28,7 +28,7 @@ Currently learning Python, Pandas, NumPy, and scikit-learn to build real-world M
 - 🔹 [LinkedIn](https://www.linkedin.com/in/mueen-ud-din)
 - 🔹 [Facebook](https://www.facebook.com/profile.php?id=61575847506194)
 - 🔹 [Instagram](https://www.instagram.com/mueen.codes/))
-- 🔹 [Twitter (X)](https://twitter.com/MueenDS)  
+- 🔹 [Twitter (X)](https://twitter.com/MueenDS_)  
 - 📧 Email: mueen.data@gmail.com  
 
 ---
