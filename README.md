@@ -1,4 +1,3 @@
-# mueen-ds
 # 👋 Hi, I'm Mueen
 
 I'm an aspiring **Data Scientist** from Pakistan 🇵🇰  
