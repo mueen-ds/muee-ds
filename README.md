@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mueen
+# 👋 Hi, I'm Mueen Ud Din
 
 I'm an aspiring **Data Scientist** from Pakistan 🇵🇰  
 Currently learning Python, Pandas, NumPy, and scikit-learn to build real-world ML projects.
@@ -19,8 +19,15 @@ Currently learning Python, Pandas, NumPy, and scikit-learn to build real-world M
 
 ---
 
+### 📂 Projects
+- [📈 Sales Data Analysis](https://github.com/mueen-ds/Sales-Data-Analysis)
+
+---
+
 ### 🔗 Connect With Me:
-- 🔹 [LinkedIn](https://www.linkedin.com/in/mueen-ud-din)  
+- 🔹 [LinkedIn](https://www.linkedin.com/in/mueen-ud-din)
+- 🔹 [Facebook](https://www.facebook.com/profile.php?id=61575847506194)
+- 🔹 [Instagram](https://www.instagram.com/mueen.codes/))
 - 🔹 [Twitter (X)](https://twitter.com/MueenDS)  
 - 📧 Email: mueen.data@gmail.com  
 
